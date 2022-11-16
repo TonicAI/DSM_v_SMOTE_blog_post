@@ -17,23 +17,33 @@ Through addressing the biases associated with training models on imbalanced data
 Head to [djinn.tonic.ai](https://djinn.tonic.ai/login?signup=true) to create your free account. Once you're logged in perform the following steps to get faking!
 1. Create a workspace <br>
 <br>
-<div align="center"> ![hippo](https://media.giphy.com/media/DVuaf1aPnR4skLht2l/giphy.gif) </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/DVuaf1aPnR4skLht2l/giphy.gif">
+</p>
 <br>
 2. Configure your source data (in this example we upload a CSV) <br>
 <br>
-<div align="center"> ![hippo](https://media.giphy.com/media/cZbjDUabeeGG2OnDjR/giphy.gif) </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/cZbjDUabeeGG2OnDjR/giphy.gif">
+</p>
 <br>
 3. Create a model with a SQL query - making sure to specify appropriate datatypes and column names <br>
 <br>
-<div align="center"> ![hippo](https://media.giphy.com/media/EGJYgk7AiiB2IEa9dG/giphy.gif) </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/EGJYgk7AiiB2IEa9dG/giphy.gif">
+</p>
 <br>
 4. Set your model parameters and run your model <br>
 <br>
-<div align="center"> ![hippo](https://media.giphy.com/media/fJHqnEKcVoJjWwcnHC/giphy.gif) </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/fJHqnEKcVoJjWwcnHC/giphy.gif">
+</p>
 <br>
 5. Check your synthesis report and copy your python snippet into your jupyter notebook<br>
 <br>
-<div align="center"> ![hippo](https://media.giphy.com/media/iKUin0bBHqAr4UxxTQ/giphy.gif) </div>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/iKUin0bBHqAr4UxxTQ/giphy.gif">
+</p>
+<br>
 
 Recreate this experiment for yourself - head to [djinn.tonic.ai](https://djinn.tonic.ai/login?signup=true) to create your account and start your free trial!
