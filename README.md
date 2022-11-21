@@ -4,9 +4,9 @@ Tonic's latest offering is a data synthesizer tailored specifically for data sci
 
 ## Meet Djinn
 
-Using powerful AI generative models, Djinn can take a dataset from an application database - such as PostgreSQL or Oracle - a data warehouse - such as BigQuery or Snowflake - or simply from to CSV file and create rows of synthetic data that align with the trends in your data to allow you to build models with greater predictive power.
+Using powerful AI generative models, Djinn takes a dataset from an application database - such as PostgreSQL or Oracle - a data warehouse - such as BigQuery or Snowflake - or simply from a CSV file, and creates rows of synthetic data that align with the trends in your data to allow you to build models with greater predictive power.
 
-In this [blog post](link to blog) we use a dataset from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) to explore how Djinn can help improve classification model performance when working with imbalanced datasets. We compare the performance of Logistic Regression, XGBoost, and CatBoost models trained on datasets augmented using Djinn, SMOTE and SMOTE-NC.
+In this [blog post](link to blog) we use a dataset from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) to explore how Djinn helps improve classification model performance when working with imbalanced datasets. We compare the performance of Logistic Regression, XGBoost, and CatBoost models trained on datasets augmented using Djinn, SMOTE and SMOTE-NC.
 
 Through addressing the biases associated with training models on imbalanced data by rebalancing the imbalanced class, we find that Djinn-augmented data outperforms the other augmentation methods for the CatBoost and XGBoost models. 
 
