@@ -1,4 +1,4 @@
-# "Blog title"
+# How to Solve the Problem of Imbalanced Datasets: Meet Djinn by Tonic
 
 Tonic's latest offering is a data synthesizer tailored specifically for data scientist's needs.  
 
@@ -42,7 +42,7 @@ Head to [djinn.tonic.ai](https://djinn.tonic.ai/login?signup=true) to create you
 5. Check your synthesis report and copy your python snippet into your jupyter notebook<br>
 <br>
 <p align="center">
-  <img src="https://media.giphy.com/media/iKUin0bBHqAr4UxxTQ/giphy.gif">
+  <img src="https://media.giphy.com/media/I7KeiCq57xAmWsOf3Y/giphy.gif">
 </p>
 <br>
 
