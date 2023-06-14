@@ -1,4 +1,4 @@
-# How to Solve the Problem of Imbalanced Datasets: Meet Djinn by Tonic
+# How to Solve the Problem of Imbalanced Datasets: Meet Tonic Data Science Mode
 
 Tonic's latest offering is a data synthesizer tailored specifically for data scientist's needs.  
 
